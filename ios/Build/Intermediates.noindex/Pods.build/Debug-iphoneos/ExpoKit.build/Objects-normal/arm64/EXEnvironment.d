@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXEnvironment.m \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Analytics/EXAnalytics.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXBuildConstants.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelUtil.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/CocoaLumberjack.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDLog.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDLogMacros.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDAssertMacros.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogCapture.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogger.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDTTYLogger.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDFileLogger.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDOSLogger.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/ExpoKit/ExpoKit.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Environment/EXEnvironment.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Internal/Test/EXTest.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/Crashlytics/Crashlytics/Crashlytics.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSAttributes.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSLogging.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSReport.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/Crashlytics/Crashlytics/CLSStackFrame.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/Crashlytics/Crashlytics/Answers.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/Crashlytics/Crashlytics/ANSCompatibility.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Public/React/React/RCTAssert.h

@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.m \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Target\ Support\ Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKDeviceLoginManagerResult+Internal.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMacros.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLink.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkTarget.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkNavigation.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolving.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/Bolts/BFAppLinkResolving.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererController.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkReturnToRefererView.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKURL.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKWebViewAppLinkResolver.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKDeviceLoginManagerResult.h

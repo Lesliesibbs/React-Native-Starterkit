@@ -1,0 +1,4 @@
+#Fri Nov 09 14:23:38 GMT 2018
+base.0=/Users/programmer/Desktop/Mobile/Weft/android/app/build/intermediates/transforms/dexMerger/devMinSdkDevKernel/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

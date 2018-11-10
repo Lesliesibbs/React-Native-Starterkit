@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXSensorManager.m \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernel.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXAppBrowserController.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelAppRegistry.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelAppRecord.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelServiceRegistry.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelUtil.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/CocoaLumberjack.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDLog.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDLogMacros.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDAssertMacros.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogCapture.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogger.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDTTYLogger.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDFileLogger.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/CocoaLumberjack/DDOSLogger.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/ExpoKit/EXViewController.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXSensorManager.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/UniversalModules/EXSensorsManagerBinding.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/EXCore/EXInternalModule.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/EXCore/EXDefines.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/EXSensorsInterface/EXAccelerometerInterface.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/EXSensorsInterface/EXDeviceMotionInterface.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/EXSensorsInterface/EXGyroscopeInterface.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/EXSensorsInterface/EXMagnetometerInterface.h \
+  /Users/programmer/Desktop/Mobile/Weft/ios/Pods/Headers/Private/EXSensorsInterface/EXMagnetometerUncalibratedInterface.h
