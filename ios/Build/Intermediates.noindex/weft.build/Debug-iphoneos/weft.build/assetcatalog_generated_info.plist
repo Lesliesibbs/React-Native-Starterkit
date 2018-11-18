@@ -11,6 +11,7 @@
 				<string>AppIcon20x20</string>
 				<string>AppIcon29x29</string>
 				<string>AppIcon40x40</string>
+				<string>AppIcon57x57</string>
 				<string>AppIcon60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
@@ -26,7 +27,10 @@
 				<string>AppIcon20x20</string>
 				<string>AppIcon29x29</string>
 				<string>AppIcon40x40</string>
+				<string>AppIcon57x57</string>
 				<string>AppIcon60x60</string>
+				<string>AppIcon50x50</string>
+				<string>AppIcon72x72</string>
 				<string>AppIcon76x76</string>
 				<string>AppIcon83.5x83.5</string>
 			</array>
@@ -34,5 +38,18 @@
 			<string>AppIcon</string>
 		</dict>
 	</dict>
+	<key>UILaunchImages</key>
+	<array>
+		<dict>
+			<key>UILaunchImageMinimumOSVersion</key>
+			<string>7.0</string>
+			<key>UILaunchImageName</key>
+			<string>LaunchImage-700-568h</string>
+			<key>UILaunchImageOrientation</key>
+			<string>Portrait</string>
+			<key>UILaunchImageSize</key>
+			<string>{320, 568}</string>
+		</dict>
+	</array>
 </dict>
 </plist>

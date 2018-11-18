@@ -12,6 +12,10 @@ import java.util.List;
 import expo.core.interfaces.Package;
 import host.exp.exponent.generated.DetachBuildConstants;
 import host.exp.exponent.experience.DetachActivity;
+import android.widget.LinearLayout;
+import android.graphics.drawable.Drawable;
+import android.support.v4.content.ContextCompat;
+
 
 public class MainActivity extends DetachActivity {
 
@@ -19,6 +23,15 @@ public class MainActivity extends DetachActivity {
   public String publishedUrl() {
     return "exp://exp.host/@thegaffer/Weft";
   }
+
+
+  public LinearLayout createSplashLayout() {
+      LinearLayout splash = new LinearLayout(this);
+      Drawable launch_screen_bitmap = ContextCompat.getDrawable(getApplicationContext(),R.drawable.launch_screen_bitmap);
+      splash.setBackground(launch_screen_bitmap);
+
+      return splash;
+    }
 
   @Override
   public String developmentUrl() {
